@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'História',
+    'Quando foi fundada a Polícia Militar do Estado de São Paulo (PMESP)?',
+    'A PMESP foi criada em 1831'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Administração',
+    'Quais são os principais objetivos administrativos da PMESP?',
+    'Garantir a eficiência na gestão dos recursos humano'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Informatica',
+    'Qual a importância da informática para a PMESP?',
+    'permite uma gestão mais eficiente das informações'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Pergunta extra',
+    'O que é o COPOM da PMESP?',
+    'é responsável por receber chamadas de emergência'
 )
